@@ -49,5 +49,13 @@ python train_20240902001446.py
 ```
 Model weights are save to `./output_20240902001446`
 
+Trained models are uploaded in kaggle dataset.
+[20240827234748](https://www.kaggle.com/datasets/kyohei1/output-20240827234748)
+[20240830205516](https://www.kaggle.com/datasets/kyohei1/output-20240830205516)
+[20240831025049](https://www.kaggle.com/datasets/kyohei1/output-20240831025049)
+[20240902001446](https://www.kaggle.com/datasets/kyohei1/output-20240902001446)
+
+
+
 ## Integrate image into tabular model and submission
 `tabular-with-image-submission.ipynb`
